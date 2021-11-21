@@ -5,4 +5,5 @@ curl -sSL https://raw.githubusercontent.com/adamvallee/new-vm-magic-maker/main/u
 
 
 wget -O ubuntu.sh https://raw.githubusercontent.com/adamvallee/new-vm-magic-maker/main/ubuntu.sh
+
 sudo bash ubuntu.sh
